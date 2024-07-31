@@ -135,12 +135,12 @@ Use sparse categorical crossentropy loss function for pixel-wise classification.
 ### Visualization:
 - Plot the training and validation accuracy and loss over epochs.
 
-![Image](/results/accuracy.png)
+  ![Image](/results/accuracy.png)
 
 - Display sample predictions to assess the model's performance.
-![Image](/results/output.png)
-![Image(/results/output1.png)
-![Image](/results/output2.png)
+  ![Image](/results/output.png)
+  ![Image](/results/output1.png)
+  ![Image](/results/output2.png)
 
 ## Results
 The results of the project include:
